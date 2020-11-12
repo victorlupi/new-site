@@ -19,6 +19,7 @@
   "homepage": "https://github.com/victorlupi/new-site#readme",
   "dependencies": {
     "next": "^10.0.1",
+    "node": "^15.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
